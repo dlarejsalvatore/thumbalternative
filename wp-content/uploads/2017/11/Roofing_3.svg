@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#008DAF" d="M60,57c0,1.65-1.35,3-3,3H3c-1.65,0-3-1.35-3-3V3c0-1.65,1.35-3,3-3h54c1.65,0,3,1.35,3,3V57z"/>
+	</g>
+</g>
+<g>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="22.513,17.525 16.221,17.525 9.513,44.5 
+		50.487,44.5 43.202,17.525 28.512,17.525 	"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="36.513" y1="44.213" x2="42.487" y2="18.484"/>
+	<rect x="23" y="14" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="6" height="11"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="34.513" y1="26.5" x2="31.013" y2="30"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="21.513" y1="31.5" x2="17.513" y2="35.5"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="32.513" y1="35.5" x2="29.013" y2="39"/>
+</g>
+</svg>
