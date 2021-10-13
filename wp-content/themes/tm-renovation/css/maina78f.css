@@ -2736,7 +2736,7 @@ CSS for elements
     background-color: #fafafa;
   }
   .be-a-piece-of-us.style2:before {
-    content: url(../../../../../renovation.thememove.com/data/images/home02_section6_bg.jpg);
+    content: url(../sources/../sources/../renovation.thememove.com/data/images/home02_section6_bg.jpg);
     display: block !important;
     position: absolute;
     top: 0;
